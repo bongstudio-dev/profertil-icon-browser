@@ -1,5 +1,7 @@
 # Profertil · Icon Browser
 
+> **Esta herramienta se mudó a [Tools Profertil](https://bongstudio-dev.github.io/profertil-tools/iconos/)** (repo [`profertil-tools`](https://github.com/bongstudio-dev/profertil-tools)). Este repo queda como redirección: el `index.html` solo reenvía al sitio nuevo y el resto del código se conserva como archivo.
+
 Herramienta web estática (HTML + CSS + JS vanilla, sin build step) para explorar, filtrar, recolorear y exportar la librería de íconos del **Sistema de marca Profertil 2026**. Comparte el lenguaje visual del [Profertil Pattern Generator](https://github.com/bongstudio-dev/profertil-pattern-generator).
 
 ## Uso
